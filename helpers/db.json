@@ -1,0 +1,21 @@
+{
+  "admins": [],
+  "clients": [
+    {
+      "id": "1d65",
+      "name": "test1",
+      "phone": "019232141212",
+      "city": "alex",
+      "email": "beheryomar2@gmail.com"
+    }
+  ],
+  "helpers": [
+    {
+      "id": "a159",
+      "name": "helper1",
+      "phone": "12232",
+      "city": "alex",
+      "email": "beheryomawddwdw@gmail.com"
+    }
+  ]
+}
